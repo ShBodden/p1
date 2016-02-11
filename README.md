@@ -7,7 +7,7 @@
 My profile page for CSCI E-15. Including links to projects 2,3, and 4.
 
 ## Demo
-Demo link coming soon...
+<http://www.screencast.com/t/GzO2CljwF7qm>
 
 ## Details for teaching team
 Hello team. This is me.
